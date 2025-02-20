@@ -1,19 +1,13 @@
 ## 本项目完整源码是收费的  接毕业设计和论文
 
-### 作者微信：grapro666 QQ：3642795578 (支持部署调试、支持代做毕设)
+### 作者微信：ZAZ27777 QQ：2801106959 (支持部署调试、支持代做毕设)
 
 ### 接javaweb、python、小程序、H5、APP、各种管理系统、单片机、嵌入式等开发
 
 ### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt
 
-**博客地址：
-[https://blog.csdn.net/2303_76227485/article/details/143631312](https://blog.csdn.net/2303_76227485/article/details/143631312)**
-
 **视频演示：
 [https://www.bilibili.com/video/BV1B6DZYbE76/](https://www.bilibili.com/video/BV1B6DZYbE76/)**
-
-**毕业设计所有选题地址：
-[https://github.com/giteecode/allProject](https://github.com/giteecode/allProject)**
 
 ## 基于Java+Springboot+vue3的会议室管理系统(源代码+数据库)199
 
